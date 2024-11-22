@@ -20,8 +20,12 @@
 .nav-item:hover{
     background-color: rgba(255,255,255,0.2);
 }
+.textcnt>h1{
+    font-size: 53px;
+    text-shadow: 2px 2px black;
+}
 .banner{
-    background-image: url(./images/japan-cherry-blossom-1920-x-1080-0w0uzhe3vdvy5x0l.jpg);
+    background-image: url(./images/botanical-leaves.jpg);
     height: 60vh;
     background-repeat: no-repeat;
     background-size: cover;
